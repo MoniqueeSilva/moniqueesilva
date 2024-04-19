@@ -20,7 +20,7 @@
 </a>
 
 <a href="mailto:moniquedasilva2005@gmail.com">
-  <img align="center" height="80" width="80" src="https://github.com/MoniqueeSilva/moniqueesilva/blob/main/assets/167457364/a54dd162-53b9-4719-80a2-8fdc5bf7d1f9.png" alt="Ícone de email">
+<img align="center"  height="80" width="80" src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/d531558a-9352-42c1-9884-06677fb131e4">
 </a>
 
 <a  href="https://www.linkedin.com/in/monique-da-silva-8b5702290/" target=_blank>
