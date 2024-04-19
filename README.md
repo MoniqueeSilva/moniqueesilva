@@ -19,10 +19,9 @@
 <img align="center" height="84" width="84" src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/17c67c40-79b9-4d75-8d36-9132b18f5c21">
 </a>
 
-<a href="moniquedasilva2005@gmail.com">
-<img align="center"  height="80" width="80" src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/a54dd162-53b9-4719-80a2-8fdc5bf7d1f9">
+<a href="mailto:moniquedasilva2005@gmail.com">
+  <img align="center" height="80" width="80" src="https://github.com/MoniqueeSilva/moniqueesilva/blob/main/assets/167457364/a54dd162-53b9-4719-80a2-8fdc5bf7d1f9.png" alt="Ícone de email">
 </a>
-
 
 <a  href="https://www.linkedin.com/in/monique-da-silva-8b5702290/" target=_blank>
 <img align="center"  height="80" width="80" src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/8efde982-51fd-454b-b224-1f7652376cc1">
