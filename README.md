@@ -19,7 +19,7 @@
 <img align="center" height="84" width="84" src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/17c67c40-79b9-4d75-8d36-9132b18f5c21">
 </a>
 
-<a href="moniquedasilva2005@gmail.com">
+<a href="mailton:moniquedasilva2005@gmail.com">
 <img align="center"  height="80" width="80" src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/a54dd162-53b9-4719-80a2-8fdc5bf7d1f9">
 </a>
 
