@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/87b372d5-6a32-4fac-8826-725d2e89809b"/>
+
 <br>
 <br> 
 
@@ -85,7 +85,22 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/619e295b-b0b5-4547-9e5d-c13b1b06539f" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="" 
+/>
 <br>
 <br> 
 <br>
