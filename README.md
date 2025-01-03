@@ -35,16 +35,56 @@
 
 </div>
 
+### 🤖 Linguagens e Tecnologias
 
-### Main skills:
-<div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/c883464d-fb97-4767-852b-50dcc1847ace">
-
-<img align="left" height="80" width="80" src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/c50ab783-d02d-4ca7-aa4e-d396268a62dc">
-
-<img align="left"  height="80" width="80" src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/81dd7216-9263-4ac4-b98c-0b49a501ace8">
-
-</div>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 
 <br>
 <br> 
