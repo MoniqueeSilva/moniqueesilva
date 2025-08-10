@@ -1,11 +1,19 @@
-<br>
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=9B2FFF&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=%E2%8A%B9+Oi%2C+bem-vindo(a)+ao+meu+perfil!+%E2%8A%B9" alt="Typing SVG" /></a>
 </div>
 
 <br>
 
- <img align="center" alt="" src="https://github.com/user-attachments/assets/46b9f2c2-3e53-4306-a169-fd4fbd4facd6">
+**`Desenvolvedora FullStack`**
+
+Me chamo Monique, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Sistemas para Internet no IFPB. Sou apaixonada por tecnologia e compartilho meu conhecimento através dos meus repositórios GitHub e posts no meu perfil do Linkedin, onde mostro projetos pessoais e acadêmicos.
+
+<br>
+
+<div align="center">
+<a href="https://www.instagram.com/monique.sillva_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/moniquesillva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:moniquedasilva2005@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MoniqueeSilva&theme=material-palenight&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
@@ -90,40 +98,6 @@
 <br>
 <br>
 
-### Entre em contato comigo aqui! 👇
-
-<a href="https://www.instagram.com/monique.sillva_/" target="_blank">
-  <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/17c67c40-79b9-4d75-8d36-9132b18f5c21" 
-  />
-</a>
-
-<a href="mailto:moniquedasilva2005@gmail.com">
-  <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/d531558a-9352-42c1-9884-06677fb131e4" 
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/moniquesillva/" target=_blank>
-  <img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github.com/MoniqueeSilva/moniqueesilva/assets/167457364/8efde982-51fd-454b-b224-1f7652376cc1" 
-  />
-</a>
 
 <div align="center" >
    
