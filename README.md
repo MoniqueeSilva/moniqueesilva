@@ -4,7 +4,7 @@
 
 <br>
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Web`**
 
 Me chamo Monique, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Sistemas para Internet no IFPB. Sou apaixonada por tecnologia e compartilho meu conhecimento através dos meus repositórios GitHub e posts no meu perfil do Linkedin, onde mostro projetos pessoais e acadêmicos.
 
