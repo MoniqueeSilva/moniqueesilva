@@ -6,7 +6,7 @@
 
 **`Desenvolvedora Web`**
 
-Me chamo Monique, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Sistemas para Internet no IFPB. Sou apaixonada por tecnologia e compartilho meu conhecimento através dos meus repositórios GitHub e posts no meu perfil do Linkedin, onde mostro projetos pessoais e acadêmicos.
+Me chamo Monique. Atualmente, estou cursando Sistemas para Internet no IFPB. Sou apaixonada por tecnologia e compartilho meu conhecimento através dos meus repositórios GitHub e posts no meu perfil do Linkedin, onde mostro projetos pessoais e acadêmicos.
 
 <br>
 
@@ -19,11 +19,15 @@ Me chamo Monique, tenho 20 anos e sou natural de São Paulo. Atualmente, estou c
 <br>
 <br>
 
-### Minha pilha 👾
+### Front-end
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,figma)](https://skillicons.dev)
 
 <br>
+
+### Back-end
+
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,py,spring)](https://skillicons.dev)
 <br>
 
 <div align="center">  
