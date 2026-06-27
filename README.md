@@ -21,7 +21,7 @@ Me chamo Monique, tenho 20 anos e sou natural de São Paulo. Atualmente, estou c
 
 ### Minha pilha 👾
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,c,cpp,java,py,pycharm,figma,git,github,npm,postgres,mysql,replit,ubuntu,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,postgres,mysql)](https://skillicons.dev)
 
 <br>
 <br>
